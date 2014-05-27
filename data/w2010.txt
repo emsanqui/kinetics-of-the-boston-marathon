@@ -1,0 +1,50 @@
+2010	F4	Erkesso, Teyba	 27	 F	 Arsi	  	 ETH	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:17:05	0:35:06	0:53:04	1:11:22	1:14:52	1:27:40	1:44:31	2:01:31	2:18:52
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:35	 	2:26:11	1	1
+2010	F15	Pushkareva, Tatyana	 24	 F	 Perm	  	 RUS	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:17:16	0:35:07	0:53:05	1:11:25	1:15:08	1:28:32	1:45:50	2:02:36	2:19:07
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:35	 	2:26:14	2	2
+2010	F1	Kosgei, Salina	 33	 F	 Eldoret	  	 KEN	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:17:05	0:35:08	0:53:05	1:11:24	1:15:03	1:28:34	1:46:22	2:03:41	2:21:04
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:40	 	2:28:35	3	3
+2010	F14	Girma, Waynishet	 24	 F	 Addis Ababa	  	 ETH	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:17:05	0:35:06	0:53:04	1:11:22	1:15:00	1:28:34	1:46:22	2:03:41	2:21:04
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:40	 	2:28:36	4	4
+2010	F7	Genovese, Bruna	 33	 F	 Volpago del Montello	  	 ITA	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:17:05	0:35:06	0:53:04	1:11:25	1:15:07	1:28:35	1:46:22	2:03:52	2:21:23
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:42	 	2:29:12	5	5
+2010	F6	Grigoryeva, Lidiya	 36	 F	 Cheboksary	  	 RUS	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:17:06	0:35:07	0:53:05	1:11:23	1:15:03	1:28:33	1:45:50	2:03:45	2:22:03
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:45	 	2:30:31	6	6
+2010	F9	Nakamura, Yurika	 24	 F	 Okayama City	  	 JPN	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:17:05	0:35:06	0:53:04	1:11:25	1:15:05	1:28:34	1:46:32	2:05:32	2:23:10
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:45	 	2:30:40	7	7
+2010	F19	Sun, Weiwei	 25	 F	 Liaoning	  	 CHN	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:17:06	0:35:07	0:53:04	1:11:25	1:15:07	1:28:34	1:46:23	2:04:31	2:23:07
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:46	 	2:31:14	8	8
+2010	F11	Yulamanova, Nailya	 29	 F	 Cheboksary	  	 RUS	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:17:06	0:35:07	0:53:05	1:11:26	1:15:12	1:29:01	1:47:30	2:05:56	2:24:01
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:48	 	2:31:48	9	9
+2010	F8	Mayorova-Ivanova, Albina	 32	 F	 Cheboksary	  	 RUS	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:17:15	0:35:07	0:53:05	1:11:31	1:15:19	1:29:12	1:46:53	2:04:39	2:23:36
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:48	 	2:31:55	10	10

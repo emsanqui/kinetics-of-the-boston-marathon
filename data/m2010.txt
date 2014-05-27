@@ -1,0 +1,50 @@
+2010	6	Cheruiyot, Robert Kiprono	 21	 M	 Bomet	  	 KEN	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:14:53	0:30:08	0:44:58	1:00:12	1:03:27	1:14:58	1:29:58	1:44:42	1:59:21
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:04:48	 	2:05:52	1	1	1
+2010	12	Kebede, Tekeste	 28	 M	 Addis Ababa	  	 ETH	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:14:54	0:30:08	0:45:00	1:00:12	1:03:27	1:14:59	1:30:05	1:45:15	2:00:37
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:04:52	 	2:07:23	2	2	2
+2010	1	Merga, Deriba	 29	 M	 Addis Ababa	  	 ETH	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+-	0:30:08	0:44:59	1:00:11	1:03:27	1:14:59	1:29:58	1:44:42	2:00:25
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:04:55	 	2:08:39	3	3	3
+2010	3	Hall, Ryan	 27	 M	 Mammoth Lakes	 CA	 USA	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:14:54	0:30:07	0:45:09	1:00:11	1:03:27	1:15:14	1:30:55	1:46:33	2:01:58
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:04:55	 	2:08:41	4	4	4
+2010	18	Keflezighi, Mebrahtom	 34	 M	 Mammoth Lakes	 CA	 USA	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:14:54	0:30:08	0:45:00	1:00:12	1:03:27	1:14:59	1:30:20	1:46:01	2:02:07
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:04:56	 	2:09:26	5	5	5
+2010	14	Asfaw, Gashaw	 31	 M	 Wollo	  	 ETH	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:14:55	0:30:09	0:45:03	1:00:34	1:04:00	1:15:59	1:31:35	1:47:08	2:03:30
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:00	 	2:10:53	6	6	6
+2010	15	Komen, John	 32	 M	 Marakwet	  	 KEN	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:14:55	0:30:09	0:45:57	1:01:31	1:04:57	1:17:33	1:33:37	1:49:45	2:04:56
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:02	 	2:11:48	7	7	7
+2010	19	Kipkosgei, Moses Kigen	 27	 M	 Eldoret	  	 KEN	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:14:53	0:30:08	0:44:58	1:00:12	1:03:27	1:14:59	1:30:26	1:46:24	2:03:30
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:02	 	2:12:04	8	8	8
+2010	21	Lehmkuhle, Jason	 32	 M	 Minneapolis	 MN	 USA	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:14:59	0:30:29	0:45:58	1:01:31	1:04:54	1:17:04	1:32:59	1:49:03	2:05:14
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:03	 	2:12:24	9	9	9
+2010	23	Suarez, Alejandro	 29	 M	 Queretaro	  	 MEX	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:14:56	0:30:20	0:45:57	1:01:32	1:04:55	1:17:02	1:33:07	1:49:13	2:05:10
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:04	 	2:12:33	10	10	10

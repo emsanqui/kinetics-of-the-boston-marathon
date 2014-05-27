@@ -1,0 +1,11 @@
+node_modules
+data/marathon-men.json
+data/marathon-women.json
+vendor/font-awesome
+node_modules/*
+js/bumps-chart.min.js
+js/bumps-chart-project.min.js
+css/bundle.css
+css/bumps-chart.min.css
+css/bumps-chart-project.min.css
+dist

@@ -1,0 +1,50 @@
+2011	2	Mutai, Geoffrey	 29	 M	 Eldoret	  	 KEN	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:14:32	0:29:08	0:43:48	0:58:45	1:01:58	1:13:16	1:28:24	1:42:35	1:56:48
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:04:42	 	2:03:02	1	1	1
+2011	22	Mosop, Moses	 25	 M	 Iten	  	 KEN	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+-	0:29:07	0:43:48	0:58:45	1:01:58	1:13:16	1:28:23	1:42:41	1:56:48
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:04:42	 	2:03:06	2	2	2
+2011	17	Gebremariam, Gebregziabher	 26	 M	 Tigray	  	 ETH	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+-	0:29:08	0:43:49	0:58:45	1:01:58	1:13:16	1:28:24	1:43:09	1:58:20
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:04:46	 	2:04:53	3	3	3
+2011	3	Hall, Ryan	 28	 M	 Mammoth Lakes	 CA	 USA	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:14:29	0:29:07	0:43:45	0:58:43	1:01:57	1:13:25	1:28:23	1:43:29	1:58:20
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:04:46	 	2:04:58	4	4	4
+2011	12	Cherkos, Abreham	 21	 M	 Arsi	  	 ETH	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:14:32	0:29:08	0:43:49	0:58:45	1:01:58	1:13:23	1:28:24	1:43:46	1:59:09
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:04:49	 	2:06:13	5	5	5
+2011	1	Cheruiyot, Robert Kiprono	 22	 M	 Bomet	  	 KEN	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:14:31	0:29:06	0:43:47	0:58:44	1:01:57	1:13:26	1:28:42	1:44:19	1:59:54
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:04:50	 	2:06:43	6	6	6
+2011	9	Sanga, Philip Kimutai	 27	 M	 Kapsabet	  	 KEN	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:14:33	0:29:08	0:43:48	0:58:45	1:01:58	1:13:17	1:28:23	1:43:27	1:59:44
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:04:51	 	2:07:10	7	7	7
+2011	14	Chimsa, Deressa	 34	 M	 Addis Ababa	  	 ETH	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+-	0:29:28	0:44:34	0:59:50	1:03:06	1:15:01	1:30:27	1:45:51	2:01:07
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:04:52	 	2:07:39	8	8	8
+2011	8	Daba, Bekana	 22	 M	 Welega	  	 ETH	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:14:32	0:29:07	0:43:48	0:58:44	1:01:58	1:13:16	1:28:23	1:43:26	1:59:56
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:04:53	 	2:08:03	9	9	9
+2011	16	Kipchumba, Robert	 27	 M	 Marakwet	  	 KEN	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+-	0:29:07	0:43:48	0:58:44	1:01:57	1:13:16	1:28:23	1:43:42	2:00:19
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:04:55	 	2:08:44	10	10	10

@@ -1,0 +1,50 @@
+2012	F4	Cherop, Sharon	 28	 F	 Marakwet	  	 KEN	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:18:51	0:37:15	0:55:15	1:13:25	1:17:08	1:31:02	1:48:51	2:06:42	2:24:07
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:48	-	2:31:50	1	1
+2012	F16	Sumgong, Jemima Jelagat	 27	 F	 Nandi	  	 KEN	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:18:50	0:37:16	0:55:15	1:13:26	1:17:09	1:31:02	1:48:51	2:06:42	2:24:07
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:48	-	2:31:52	2	2
+2012	F11	Rono, Georgina	 31	 F	 Kapsabet	  	 KEN	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:18:50	0:37:15	0:55:15	1:13:25	1:17:08	1:31:02	1:48:51	2:06:43	2:24:35
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:51	-	2:33:09	3	3
+2012	F6	Dado, Firehiwot	 28	 F	 Assela	  	 ETH	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:18:50	0:37:15	0:55:15	1:13:25	1:17:09	1:31:02	1:48:51	2:07:38	2:26:28
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:55	-	2:34:56	4	4
+2012	F15	Sigei, Diana	 24	 F	 Eldoret	  	 KEN	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:18:51	0:37:15	0:55:15	1:13:26	1:17:09	1:31:02	1:49:50	2:08:59	2:27:31
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:57	-	2:35:40	5	5
+2012	F8	Jeptoo, Rita	 31	 F	 Eldoret	  	 KEN	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:18:51	0:37:16	0:55:15	1:13:41	1:17:39	1:31:49	1:50:31	2:09:18	2:27:38
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:57	-	2:35:53	6	6
+2012	F20	 Fujita, Mayumi	 28	 F	 Osaka	  	 JPN	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:18:51	0:37:17	0:55:18	1:13:47	1:17:47	1:32:26	-	2:12:03	2:30:51
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:06:05	-	2:39:11	7	7
+2012	F17	Leonteva, Nadezdha	 27	 F	 Samara	  	 RUS	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:18:51	0:37:18	0:55:16	1:13:27	1:17:14	1:31:07	1:49:47	2:10:00	2:30:40
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:06:08	-	2:40:40	8	8
+2012	F102	 Pretot, Svetlana	 40	 F	 Nancy	  	 FRA	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:19:11	0:38:10	0:56:57	1:15:44	1:19:52	1:34:32	1:53:45	2:13:19	2:32:36
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:06:09	-	2:40:50	9	1
+2012	F104	 Piers, Sheri L.	 40	 F	 Falmouth	 ME	 USA	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:19:12	0:38:09	0:56:57	1:15:45	1:19:54	1:34:36	1:54:06	2:13:54	2:33:20
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:06:11	-	2:41:55	10	2

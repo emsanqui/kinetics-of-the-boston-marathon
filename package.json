@@ -1,0 +1,19 @@
+{
+  "name": "kinetics-of-the-boston-marathon",
+  "version": "0.0.1",
+  "description": "Data visualization of the Boston Marathon",
+  "main": "bump-charts.js",
+  "author": "Seth Brown",
+  "license": "GPL3",
+  "devDependencies": {
+    "browserify": "^4.1.2",
+    "clean-css": "^2.1.8",
+    "uglify-js": "^2.4.13"
+  },
+  "dependencies": {
+    "jquery": "^2.1.1",
+    "d3": "^3.4.6",
+    "underscore": "^1.6.0",
+    "normalize.css": "^3.0.1"
+  }
+}

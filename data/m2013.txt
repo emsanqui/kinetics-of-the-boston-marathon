@@ -1,0 +1,50 @@
+2013	2	 Desisa, Lelisa	 23	 M	 Ambo	  	 ETH	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:15:56	0:30:54	0:45:51	1:01:32	1:04:55	1:17:14	1:32:43	1:48:41	2:03:47
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:04:59	2:10:23	2:10:22	1	1	1
+2013	19	Kogo, Micah	 26	 M	 Eldoret	  	 KEN	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:15:55	0:30:54	0:45:51	1:01:32	1:04:55	1:17:16	1:32:43	1:48:42	2:03:47
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:04:59	2:10:27	2:10:27	2	2	2
+2013	3	Gebremariam, Gebregziabher	 28	 M	 Tigray	  	 ETH	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:15:56	0:30:53	0:45:50	1:01:32	1:04:55	1:17:15	1:32:43	1:48:42	2:03:47
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:04:59	2:10:27	2:10:28	3	3	3
+2013	15	Hartmann, Jason	 32	 M	 Boulder	 CO	 USA	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:15:34	0:30:55	0:46:05	1:01:31	1:04:55	1:17:17	1:33:10	1:49:15	2:05:11
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:03	2:12:12	2:12:12	4	4	4
+2013	1	Korir, Wesley	 30	 M	 Kenya	  	 KEN	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:15:54	0:30:54	0:45:51	1:01:31	1:04:54	1:17:16	1:32:58	1:48:47	2:04:46
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:04	2:12:30	2:12:30	5	5	5
+2013	4	Geneti, Markos	 28	 M	 Addis Ababa	  	 ETH	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:15:54	0:30:53	0:45:51	1:01:31	1:04:54	1:17:14	1:32:56	1:49:04	2:05:12
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:04	2:12:44	2:12:44	6	6	6
+2013	8	Chumba, Dickson	 26	 M	 Nandi	  	 KEN	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:15:54	0:30:54	0:45:51	1:01:32	1:04:54	1:17:15	1:32:42	1:48:41	2:05:16
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:07	2:14:08	2:14:08	7	7	7
+2013	14	Hunt, Jeffrey	 30	 M	 Randwick	  	 AUS	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:15:54	0:30:57	0:46:27	1:02:12	1:05:35	1:17:48	1:34:01	1:50:28	2:06:57
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:08	2:14:28	2:14:28	8	8	8
+2013	22	 Tapia, Daniel	 26	 M	 Castroville	 CA	 USA	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:15:55	0:31:24	0:47:14	1:03:12	1:06:38	1:18:56	1:35:01	1:51:10	2:07:22
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:08	2:14:30	2:14:30	9	9	9
+2013	23	 Leon, Craig	 28	 M	 Eugene	 OR	 USA	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:15:55	0:31:22	0:47:15	1:03:11	1:06:38	1:18:57	1:34:57	1:51:09	2:07:22
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:09	2:14:38	2:14:38	10	10	10

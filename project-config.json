@@ -1,0 +1,15 @@
+{
+    "type": "project",
+    "data": [
+        {
+            "data": "data/marathon-women.json",
+            "elem": "#chart-women",
+            "button": ".btn"
+        },
+        {
+            "data": "data/marathon-men.json",
+            "elem": "#chart-men",
+            "button": ".btn"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+2011	F8	Kilel, Caroline	 30	 F	 Bomet	  	 KEN	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:17:11	0:33:55	0:50:49	1:08:01	1:11:42	1:25:01	1:41:49	1:58:38	2:15:13
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:27	 	2:22:36	1	1
+2011	F15	Davila, Desiree	 27	 F	 Rochester Hills	 MI	 USA	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:17:11	0:33:57	0:51:02	1:08:00	1:11:42	1:25:03	1:41:54	1:58:37	2:15:13
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:27	 	2:22:38	2	2
+2011	F4	Cherop, Sharon	 27	 F	 Marakwet	  	 KEN	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:17:12	0:33:56	0:50:49	1:08:01	1:11:42	1:25:02	1:41:50	1:58:39	2:15:14
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:27	 	2:22:42	3	3
+2011	F24	 Rotich, Caroline	 26	 F	 Nyahururu	  	 KEN	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:17:12	0:33:57	0:50:49	1:08:01	1:11:43	1:25:01	1:41:49	1:59:22	2:16:34
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:31	 	2:24:26	4	4
+2011	F12	Goucher, Kara	 32	 F	 Portland	 OR	 USA	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:17:11	0:33:55	0:50:50	1:08:01	1:11:42	1:25:02	1:42:00	1:59:37	2:17:13
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:32	 	2:24:52	5	5
+2011	F9	Tune, Dire	 25	 F	 Addis Ababa	  	 ETH	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:17:11	0:33:55	0:50:49	1:08:01	1:11:42	1:25:02	1:41:50	1:59:03	2:17:14
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:32	 	2:25:08	6	6
+2011	F18	Kidane, Werknesh	 29	 F	 Axum	  	 ETH	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:17:12	0:33:56	0:50:49	1:08:01	1:11:42	1:25:02	1:41:51	1:59:58	2:18:09
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:35	 	2:26:15	7	7
+2011	F51	 Caballero, Yolanda B.	 29	 F	 Bogota	  	 COL	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:17:11	0:33:56	0:50:50	1:08:01	1:11:43	1:25:03	1:42:28	2:00:21	2:18:15
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:35	 	2:26:17	8	8
+2011	F10	Timbilili, Alice	 28	 F	 Moiben	  	 KEN	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:17:12	0:33:56	0:50:49	1:08:01	1:11:43	1:25:02	1:41:50	1:58:39	2:16:43
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:36	 	2:26:34	9	9
+2011	F20	Ruban, Yuliya	 27	 F	 Kiev	  	 UKR	  	  
+5k	10k	15k	20k	Half	25k	30k	35k	40k
+0:17:13	0:34:31	0:51:48	1:09:32	1:13:21	1:27:16	1:45:00	2:02:39	2:19:43
+Finish:	Pace	Proj. Time	Offl. Time	Overall	Gender	Division
+0:05:37	 	2:27:00	10	10
